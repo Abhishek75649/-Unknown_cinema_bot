@@ -440,7 +440,7 @@ async def start(client, message):
              [
               InlineKeyboardButton('sᴇᴀʀᴄʜ ᴏᴛʜᴇʀ ᴍᴏᴠɪᴇ', url=GRP_LNK)
              ],[
-              InlineKeyboardButton('⚡ Fᴀsᴛ Dᴏᴡɴʟᴏᴀᴅ /🎥 Wᴀᴛᴄʜ Oɴʟɪɴᴇ', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @LazyDeveloperr
+              InlineKeyboardButton('Join Premium', url=https://telegra.ph/Join-Premium-Group-03-14) #Don't change anything without contacting me @LazyDeveloperr
              ]
             ]
         )
